@@ -1,0 +1,94 @@
+web development 
+🌐 What is Web Development?
+
+Web development is the process of building websites or web applications that run on the internet. It has two main parts:
+
+Frontend (Client-side) – What users see and interact with (UI/UX).
+
+Backend (Server-side) – What happens behind the scenes (logic, database, authentication).
+
+Sometimes, a developer does both → called Full-Stack Development.
+
+🖥️ 1. Frontend Development
+
+Everything that runs in the browser.
+
+Languages:
+
+HTML → structure (skeleton of the page)
+
+CSS → styling (colors, layout, design)
+
+JavaScript → interactivity (animations, buttons, dynamic content)
+
+Frameworks/Libraries:
+
+React.js, Angular, Vue.js (for building dynamic UIs)
+
+Bootstrap, Tailwind CSS (for styling faster)
+
+👉 Example: When you click "Like" on Facebook, the frontend updates the button color immediately.
+
+⚙️ 2. Backend Development
+
+Everything that runs on the server.
+
+Languages & Frameworks:
+
+JavaScript → Node.js + Express
+
+Python → Django, Flask
+
+PHP → Laravel
+
+Java → Spring Boot
+
+Databases:
+
+SQL → MySQL, PostgreSQL (structured data)
+
+NoSQL → MongoDB (flexible data)
+
+👉 Example: When you log in to Instagram, backend checks your username/password and fetches your profile.
+
+🔗 3. Full-Stack Development
+
+A full-stack developer handles both frontend & backend.
+
+Common stack: MERN (MongoDB, Express, React, Node.js).
+
+Others: MEAN, LAMP, Django + React, etc.
+
+🛠️ 4. Tools & Skills
+
+Version Control: Git & GitHub (track code changes).
+
+Hosting/Deployment: Netlify, Vercel, AWS, Heroku.
+
+APIs: REST, GraphQL (connect frontend ↔ backend).
+
+Other skills: Responsive design, security basics, debugging.
+
+🚀 5. Roadmap (Beginner → Pro)
+
+Basics: HTML, CSS, JavaScript.
+
+Frontend framework: React or Angular.
+
+Backend: Node.js/Express or Django/Flask.
+
+Database: SQL + NoSQL.
+
+APIs: Learn REST & GraphQL.
+
+Deployment: Push projects online.
+
+Build Projects: Portfolio, blog, e-commerce site, chat app.
+
+✅ In short:
+
+Frontend = What users see.
+
+Backend = How it works.
+
+Full-Stack = Both together.
